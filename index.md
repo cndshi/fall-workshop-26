@@ -4,13 +4,13 @@ layout: home
 nav_order: 1
 ---
 
-# H1 Digital Scholarship Workshop Series
+# Digital Scholarship Workshop Series
 
 ---
 
 Welcome to Hamilton Library's Digital Scholarship Fall 26 workshop series! This site will serve as the landing spot for all sessions.
 
-# H2 Workshop Sessions
+## Workshop Sessions
 
 Podcasting
 
