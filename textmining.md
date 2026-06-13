@@ -23,5 +23,5 @@ nav_order: 3
 
 * Digitized archival material/primary sources
     - [eVols (UH Mānoa’s Digital Repository for Digitized Materials) - be sure to check for copyright](https://evols.library.manoa.hawaii.edu/home)
-    - (Digital Public Library of America)[https://dp.la/] 
+    - [Digital Public Library of America](https://dp.la/)
 
