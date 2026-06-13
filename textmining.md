@@ -13,6 +13,8 @@ nav_order: 3
 ## Example Text Mining Projects
 * Digital Humanities Projects
 
+* https://dsl.richmond.edu/dispatch/about
+
 * Publications
     - Dang-Anh, Mark, and Stefan Scholl. 2022. “Digital Discourse Analysis of Language Use under National Socialism: Methodological Reflections and Applications.” In Writing the Digital History of Nazi Germany, edited by Julia Timpe and Frederike Buda, 99–130. Berlin, Boston: De Gruyter. https://doi.org/10.1515/9783110714692-005. [Link to chapter](https://uhawaii-manoa.primo.exlibrisgroup.com/permalink/01UHAWAII_MANOA/uo127p/cdi_walterdegruyter_books_10_1515_9783110714692_005)
     - 
